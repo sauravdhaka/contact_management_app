@@ -1,0 +1,7 @@
+exports.constants = {
+    VALIDATION_ERROR:400,
+    UNAUTHORIZED:401,
+    FORBIDDEN:430,
+    NOT_FOUND:404,
+    SREVER_ERROR:500,
+};
